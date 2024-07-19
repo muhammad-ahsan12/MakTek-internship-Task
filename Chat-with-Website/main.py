@@ -30,7 +30,7 @@ def main():
     You can ask questions related to the website content and get accurate responses based on the extracted data.\n
     For example, you might ask questions like ***"What is the main topic of this page?"*** or,\n
     ***"Can you summarize the key points?"***.\n
-    The project repository can be found [on my Github](https://github.com/muhammad-ahsan12/Ecomerse-Chatbot.git).
+    The project repository can be found [on my Github](https://github.com/muhammad-ahsan12/MakTek-internship-Task.git).
     """)
     st.subheader('Input your website URL, ask questions, and receive answers directly from the website.')
 
