@@ -10,7 +10,7 @@ Persistent Vector Database: Stores text data in a Chroma vector database for eff
 # Installation
  Clone the Repository
 
- git clone https://github.com/muhammad-ahsan12/Ecomerse-Chatbot.git
+ [git clone https://github.com/muhammad-ahsan12/Ecomerse-Chatbot.git](https://github.com/muhammad-ahsan12/MakTek-internship-Task.git)
 # Install Dependencies
 Ensure you have Python 3.8+ installed. Then install the required packages using pip:
 
